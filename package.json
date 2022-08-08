@@ -1,13 +1,12 @@
 {
   "name": "cordova-admobsdk",
-  "version": "7.49.0",
+  "version": "8.13.0",
   "description": "Google Mobile Ads SDK, as dependency for cordova plugins",
   "cordova": {
     "id": "cordova-admobsdk",
     "platforms": [
       "android",
-      "ios",
-      "amazon-fireos"
+      "ios"
     ]
   },
   "repository": {
@@ -22,17 +21,17 @@
     "admob",
     "plugin",
     "phonegap",
-    "intel-xdk",
-    "intel",
-    "xdk",
-    "crosswalk",
     "ionic",
+    "capacitor",
+    "nativescript",
+    "appflow",
+    "react-native",
+    "reactnatvie",
     "meteor",
     "ad",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
-    "cordova-amazon-fireos",
     "google",
     "ads",
     "eclipse",

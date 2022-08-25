@@ -20,8 +20,6 @@
     </platform>
 
     <platform name="ios">
-        <framework src="GoogleAppMeasurement.xcframework" custom="true" />
-        <framework src="GoogleAppMeasurementIdentitySupport.xcframework" custom="true" />
         <framework src="GoogleMobileAds.xcframework" custom="true" />
         <framework src="UserMessagingPlatform.xcframework" custom="true" />
         <framework src="PromisesObjC.xcframework" custom="true" />
